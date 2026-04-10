@@ -1,6 +1,3 @@
-# SQL_Task_2
-SQL Orders Database Practice with 25 Real-World Queries (DDL + DML + Aggregations)
-
 # 📊 SQL_Task -2
 
 ![SQL](https://img.shields.io/badge/SQL-Practice-blue)
