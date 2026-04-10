@@ -123,7 +123,7 @@ Feel free to fork this repository and practice more SQL queries or improve exist
 ## 📧 Contact
 
 **Prateek Kumar**  
-
+https://www.linkedin.com/in/prateek3110/
 ---
 
 ⭐ If you found this helpful, don't forget to star the repo!
